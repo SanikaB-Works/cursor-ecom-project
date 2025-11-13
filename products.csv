@@ -1,0 +1,101 @@
+product_id,name,category,brand,price,cost,inventory,sku,created_at
+1,Pulse Purpose,Electronics,Acme,201.92,86.47,356,SKU-00001,2023-12-27 13:01:11
+2,Voyage Ago,Books,Nimbus,325.43,174.14,85,SKU-00002,2024-08-28 07:05:26
+3,Innova Face,Books,Zenith,385.75,205.61,415,SKU-00003,2024-02-17 09:53:48
+4,Globex Dog,Sports,Pulse,223.2,131.58,418,SKU-00004,2024-01-07 11:55:36
+5,Pulse Since,Home & Kitchen,Zenith,172.39,109.21,449,SKU-00005,2023-12-24 02:39:48
+6,Globex Require,Health,Nimbus,188.34,113.93,98,SKU-00006,2024-08-27 22:51:46
+7,Vertex Wait,Clothing,Voyage,392.1,212.07,200,SKU-00007,2024-06-13 02:31:25
+8,Globex Begin,Health,Innova,69.94,42.03,132,SKU-00008,2024-06-30 15:07:41
+9,Zenith Knowledge,Clothing,Acme,350.75,227.87,173,SKU-00009,2023-11-26 15:34:30
+10,Pulse All,Sports,Globex,164.77,72.82,349,SKU-00010,2023-12-20 16:38:31
+11,Globex Discover,Health,Pulse,31.48,19.25,340,SKU-00011,2024-02-12 15:53:45
+12,Pulse Mouth,Beauty,Acme,201.04,87.32,91,SKU-00012,2024-07-05 02:33:37
+13,Vertex Agreement,Sports,Acme,205.68,121.44,388,SKU-00013,2024-06-19 06:31:20
+14,Nimbus Decide,Books,Nimbus,232.21,123.31,39,SKU-00014,2024-08-18 09:07:32
+15,Globex Rate,Clothing,Acme,189.93,79.29,136,SKU-00015,2024-08-12 16:09:42
+16,Innova Offer,Health,Globex,139.36,88.52,289,SKU-00016,2024-04-25 05:32:50
+17,Vertex Discussion,Clothing,Innova,187.91,76.44,104,SKU-00017,2024-05-06 18:16:15
+18,Acme Perform,Electronics,Vertex,300.58,165.41,101,SKU-00018,2024-03-01 08:15:52
+19,Globex Table,Clothing,Globex,289.95,142.21,205,SKU-00019,2024-10-16 21:48:19
+20,Vertex According,Toys,Innova,148.74,102.42,81,SKU-00020,2024-09-03 23:56:11
+21,Voyage Sure,Beauty,Pulse,285.86,181.13,485,SKU-00021,2024-01-15 07:28:18
+22,Vertex Save,Beauty,Acme,188.42,126.39,70,SKU-00022,2024-04-26 10:23:27
+23,Zenith Grow,Home & Kitchen,Pulse,93.1,42.18,300,SKU-00023,2024-03-01 05:17:16
+24,Pulse Clearly,Sports,Vertex,322.41,189.64,230,SKU-00024,2024-02-05 22:12:31
+25,Nimbus Source,Home & Kitchen,Pulse,260.97,107.65,222,SKU-00025,2024-03-24 00:37:39
+26,Zenith Blue,Home & Kitchen,Vertex,137.98,79.52,74,SKU-00026,2023-12-20 07:47:35
+27,Globex Husband,Health,Zenith,383.23,221.23,189,SKU-00027,2023-12-21 20:48:04
+28,Acme Her,Beauty,Zenith,393.31,167.09,396,SKU-00028,2024-10-08 10:33:33
+29,Zenith Guy,Beauty,Globex,224.51,121.69,296,SKU-00029,2024-07-05 18:28:25
+30,Innova Everything,Health,Pulse,149.93,60.94,233,SKU-00030,2024-09-22 18:19:11
+31,Pulse Animal,Beauty,Innova,358.71,155.17,288,SKU-00031,2024-08-23 16:55:56
+32,Vertex Machine,Toys,Vertex,134.46,84.79,370,SKU-00032,2024-06-09 13:20:50
+33,Acme Capital,Beauty,Globex,369.15,209.11,42,SKU-00033,2024-11-06 11:45:18
+34,Innova Human,Books,Voyage,352.87,242.02,175,SKU-00034,2023-12-14 21:48:36
+35,Innova Old,Toys,Voyage,213.55,95.97,469,SKU-00035,2024-03-07 03:57:31
+36,Acme Themselves,Books,Globex,204.46,127.7,448,SKU-00036,2024-07-15 10:41:12
+37,Voyage Present,Health,Zenith,369.01,233.07,175,SKU-00037,2024-10-23 04:20:51
+38,Vertex Training,Beauty,Vertex,153.56,73.52,379,SKU-00038,2024-04-02 18:01:18
+39,Voyage Participant,Electronics,Acme,102.66,45.78,419,SKU-00039,2024-01-27 23:35:55
+40,Globex Sea,Toys,Acme,265.0,130.67,118,SKU-00040,2023-12-11 07:38:24
+41,Pulse Answer,Clothing,Zenith,399.03,161.28,93,SKU-00041,2024-07-28 02:45:36
+42,Globex Drive,Home & Kitchen,Voyage,76.74,42.35,82,SKU-00042,2024-09-09 12:51:30
+43,Vertex Figure,Clothing,Pulse,237.63,146.05,406,SKU-00043,2023-12-15 07:03:15
+44,Vertex Top,Electronics,Nimbus,59.83,31.07,465,SKU-00044,2024-02-12 17:06:26
+45,Innova Trial,Clothing,Innova,215.43,104.68,478,SKU-00045,2023-12-23 12:44:26
+46,Voyage Husband,Clothing,Globex,31.35,13.54,326,SKU-00046,2024-03-01 06:14:27
+47,Globex Long,Toys,Globex,197.44,134.24,308,SKU-00047,2024-07-18 04:20:51
+48,Pulse They,Toys,Pulse,210.82,91.23,33,SKU-00048,2024-04-03 23:49:17
+49,Pulse Commercial,Beauty,Innova,322.74,187.77,277,SKU-00049,2024-04-06 01:40:33
+50,Pulse Hear,Clothing,Acme,252.59,133.31,202,SKU-00050,2024-02-03 16:05:10
+51,Vertex Religious,Electronics,Nimbus,356.94,168.12,142,SKU-00051,2024-02-25 23:45:10
+52,Vertex Science,Clothing,Voyage,326.62,188.89,56,SKU-00052,2024-11-12 01:35:33
+53,Globex Result,Beauty,Voyage,335.93,227.19,93,SKU-00053,2024-07-22 23:28:00
+54,Globex Away,Books,Zenith,120.65,49.03,79,SKU-00054,2024-07-07 20:51:05
+55,Acme Prove,Toys,Zenith,74.71,45.14,305,SKU-00055,2024-01-19 18:28:01
+56,Zenith None,Health,Vertex,144.15,94.47,440,SKU-00056,2024-08-23 11:17:36
+57,Acme Election,Books,Globex,82.89,47.36,143,SKU-00057,2024-01-16 18:21:38
+58,Zenith Maintain,Clothing,Voyage,35.42,15.25,273,SKU-00058,2024-04-09 16:07:12
+59,Pulse Expect,Electronics,Vertex,53.01,34.62,72,SKU-00059,2024-11-07 16:36:36
+60,Voyage Push,Health,Nimbus,411.09,243.67,395,SKU-00060,2024-08-07 13:28:24
+61,Pulse Onto,Books,Innova,73.56,48.35,269,SKU-00061,2024-02-07 14:18:03
+62,Zenith Reveal,Health,Globex,174.37,77.06,151,SKU-00062,2024-03-19 05:52:23
+63,Zenith Threat,Sports,Innova,174.56,89.01,199,SKU-00063,2024-09-07 16:32:26
+64,Innova Stand,Toys,Globex,173.56,118.83,166,SKU-00064,2023-12-06 00:43:07
+65,Voyage Drop,Toys,Zenith,202.41,132.49,279,SKU-00065,2024-09-28 11:05:40
+66,Vertex Almost,Sports,Pulse,334.69,162.81,325,SKU-00066,2024-09-21 22:54:35
+67,Vertex Four,Home & Kitchen,Nimbus,104.78,46.06,433,SKU-00067,2024-04-18 02:27:57
+68,Nimbus Executive,Clothing,Nimbus,63.86,43.47,65,SKU-00068,2023-12-10 00:15:42
+69,Globex Development,Toys,Zenith,402.99,255.81,306,SKU-00069,2024-11-02 22:23:04
+70,Pulse Yes,Clothing,Vertex,381.55,163.5,305,SKU-00070,2024-06-21 13:50:25
+71,Nimbus Under,Books,Acme,88.75,47.91,296,SKU-00071,2024-08-19 02:47:06
+72,Nimbus Forward,Toys,Nimbus,326.91,189.57,258,SKU-00072,2024-02-04 21:09:43
+73,Voyage Reality,Home & Kitchen,Vertex,55.21,32.98,66,SKU-00073,2024-05-26 04:30:42
+74,Zenith Individual,Toys,Vertex,327.12,219.01,183,SKU-00074,2024-10-22 21:11:01
+75,Pulse Who,Health,Nimbus,121.43,54.31,174,SKU-00075,2024-07-20 23:09:10
+76,Globex Low,Clothing,Vertex,383.23,237.18,207,SKU-00076,2024-01-08 18:59:56
+77,Nimbus Evidence,Home & Kitchen,Nimbus,393.5,201.83,252,SKU-00077,2024-01-07 12:47:17
+78,Voyage Employee,Toys,Zenith,313.46,205.37,81,SKU-00078,2024-08-29 15:08:23
+79,Vertex Option,Clothing,Acme,70.2,28.34,350,SKU-00079,2024-06-10 14:58:17
+80,Zenith Everyone,Electronics,Voyage,335.77,178.86,242,SKU-00080,2024-08-30 10:00:45
+81,Innova Pattern,Electronics,Nimbus,386.63,270.3,77,SKU-00081,2024-04-28 16:37:54
+82,Voyage Water,Electronics,Acme,140.83,98.54,75,SKU-00082,2024-06-27 22:15:36
+83,Vertex Inside,Electronics,Vertex,261.26,106.78,451,SKU-00083,2024-04-02 21:23:26
+84,Globex Discuss,Home & Kitchen,Pulse,84.08,56.6,119,SKU-00084,2024-01-07 00:41:04
+85,Vertex Mr,Beauty,Globex,19.27,11.21,49,SKU-00085,2024-05-23 23:14:24
+86,Pulse Benefit,Clothing,Globex,123.52,79.09,52,SKU-00086,2024-09-02 19:44:22
+87,Voyage Anyone,Clothing,Pulse,327.07,134.77,423,SKU-00087,2024-10-13 17:24:00
+88,Globex Break,Sports,Nimbus,68.86,40.56,378,SKU-00088,2024-01-12 15:55:24
+89,Pulse Product,Electronics,Acme,87.57,42.14,116,SKU-00089,2024-01-15 10:28:46
+90,Vertex Structure,Electronics,Nimbus,405.63,237.25,50,SKU-00090,2024-08-04 13:53:01
+91,Acme Knowledge,Electronics,Zenith,371.1,158.65,107,SKU-00091,2024-07-02 22:16:27
+92,Globex Attack,Health,Nimbus,400.97,236.94,397,SKU-00092,2024-04-11 17:37:49
+93,Nimbus I,Health,Nimbus,89.98,51.59,168,SKU-00093,2024-07-02 17:25:18
+94,Vertex Management,Books,Globex,286.42,158.25,95,SKU-00094,2024-06-06 19:02:32
+95,Zenith Enter,Toys,Voyage,193.5,93.54,88,SKU-00095,2024-06-16 03:46:41
+96,Innova Traditional,Electronics,Zenith,190.21,99.58,326,SKU-00096,2023-11-18 18:21:00
+97,Zenith Response,Home & Kitchen,Nimbus,107.52,44.17,175,SKU-00097,2024-08-20 04:57:12
+98,Zenith Building,Beauty,Acme,196.68,112.05,296,SKU-00098,2024-08-05 01:20:25
+99,Vertex Value,Books,Nimbus,277.27,176.41,175,SKU-00099,2024-06-09 20:15:55
+100,Nimbus Social,Beauty,Nimbus,192.03,106.35,196,SKU-00100,2024-02-25 22:19:48

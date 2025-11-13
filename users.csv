@@ -1,0 +1,74 @@
+user_id,first_name,last_name,email,phone_number,address,city,state,postal_code,country,signup_date,is_active
+1,Jeffrey,Chavez,allenashley@example.org,671-882-2782,346 Kim Path,Martinezbury,CA,44814,USA,2023-11-30 15:26:46,False
+2,Adrienne,Zimmerman,uowens@example.org,+1-610-965-1333x87262,78108 Tanya Terrace,East Richard,NJ,28517,USA,2025-09-15 21:35:26,True
+3,Christopher,Smith,richarddavid@example.net,799.609.1699,534 Anderson Rue,Stephenland,AL,60569,USA,2025-03-10 18:35:12,True
+4,Christy,Baker,dking@example.org,+1-264-300-5242x7868,280 Aguilar Drive,Andersonport,MN,05730,USA,2025-10-12 12:30:32,False
+5,David,Garcia,ybailey@example.org,803.765.4145,42940 Candace Key,Samuelhaven,DE,50989,USA,2025-10-12 23:19:21,True
+6,Michelle,Smith,torresjason@example.net,+1-757-377-3872x148,433 Andrew Gardens,Carrland,NH,54822,USA,2025-10-02 14:07:42,False
+7,Janet,Ross,jrivas@example.com,(677)943-4873,434 Flores Plains,East Edwardfurt,UT,20529,USA,2025-05-15 23:56:47,False
+8,Jennifer,Daniels,rrogers@example.com,001-427-929-8069x9016,46537 Rogers Light,Karenchester,KS,11236,USA,2024-11-13 14:29:38,True
+9,Amy,Crane,tamirodriguez@example.org,296-763-1931x4919,518 Smith Manor Suite 165,Zimmermanchester,HI,96681,USA,2024-12-23 13:24:12,True
+10,Thomas,Hampton,wfreeman@example.org,001-777-970-1436x349,8557 Parker Fort Apt. 351,East Javier,NJ,36742,USA,2025-05-30 02:34:57,True
+11,Ronnie,MD,moralescharles@example.net,+1-502-829-4131x86999,4964 Chelsea Streets Apt. 334,East Johnside,CA,21018,USA,2023-11-16 09:13:05,True
+12,Kirk,Carter,scott74@example.net,(248)387-7190x6594,990 Johnston Track,South April,NV,36959,USA,2024-04-03 06:32:31,False
+13,John,Davis,nwolf@example.com,+1-424-677-1093,613 Steven Crest,South Sarah,LA,67199,USA,2025-05-15 05:09:54,True
+14,John,Kennedy,tinaallen@example.com,260.457.6627,71870 Robert Shoal Apt. 174,Cindyfurt,SD,11028,USA,2025-09-05 21:23:42,True
+15,Scott,James,yknight@example.org,(421)596-9379,474 Rachel Mountain Suite 821,Landryshire,ME,84247,USA,2024-10-08 21:01:51,True
+16,Eric,Kidd,courtneyberger@example.net,7478095214,28588 Rivas Glens,Coffeyport,WA,44897,USA,2025-07-30 23:19:13,False
+17,Angela,Webster,jjohnson@example.com,+1-331-374-6120x047,267 Santiago Summit,Matthewsberg,FM,54880,USA,2025-04-05 23:58:05,True
+18,Lisa,Crosby,caseyhubbard@example.org,001-433-652-9042,02053 Smith Greens,East Judyhaven,DE,98236,USA,2024-01-02 16:08:48,True
+19,Ivan,Wheeler,sgarcia@example.org,+1-883-767-3657x6615,2711 Christopher Court Suite 280,Elizabethchester,MI,87708,USA,2025-06-19 01:39:04,True
+20,Nathan,Schmitt,mollyknight@example.com,720-418-3667,5991 Eric Throughway Apt. 147,Tuckermouth,MT,36305,USA,2024-04-29 17:50:09,True
+21,Ashley,Gregory,charles06@example.org,715.496.9664x160,516 John Radial Suite 816,Juliebury,MA,22538,USA,2024-01-12 15:09:14,True
+22,Cheyenne,Parsons,collinsshannon@example.org,(941)519-9867x980,782 Shannon Valleys Suite 182,East Jasminemouth,NC,69018,USA,2025-03-01 22:56:09,True
+23,Tabitha,Hughes,vschneider@example.org,+1-581-468-5054x23573,41888 Ebony Wells,New Nicholas,GA,24204,USA,2025-08-21 00:44:03,False
+24,Amanda,Diaz,dawsonzachary@example.org,812-247-8261x3750,536 Nicholas Burgs Suite 152,North Justin,MP,62426,USA,2025-05-07 23:03:41,False
+25,Julie,Gilbert,qlopez@example.org,651.288.8880x67065,53195 Bradley Plains Suite 277,Port Dennis,VT,60489,USA,2023-12-13 00:46:01,False
+26,Rick,Blackwell,ykline@example.com,(877)458-4161,1154 Griffin Stravenue Suite 275,Williamsstad,RI,57509,USA,2024-06-14 13:25:19,True
+27,Marcia,Cox,victorhughes@example.net,344-473-9473,2715 Mckinney Plaza,Patriciaburgh,VT,93504,USA,2025-11-03 13:55:11,True
+28,Katie,Martinez,david89@example.org,001-626-380-1824x22535,84249 Wayne Extension Apt. 299,Meganshire,AZ,04219,USA,2024-01-16 09:26:34,True
+29,Patricia,Baker,xanderson@example.net,+1-415-337-1473,6963 Lisa Ports,Jamesburgh,NM,67967,USA,2024-11-10 21:24:13,True
+30,Jonathan,Davis,hughesshannon@example.net,599-812-1655x852,02578 Hernandez Passage,West Sarah,MD,21800,USA,2024-09-14 12:32:36,True
+31,Jordan,Hicks,rhernandez@example.org,8915307562,970 April Points Suite 786,Suemouth,PW,70379,USA,2024-08-06 04:46:38,True
+32,Sean,Becker,sandra47@example.org,584.584.2199,833 Craig Isle,Garciaberg,AL,72636,USA,2025-11-04 23:00:45,True
+33,Taylor,Johns,lkhan@example.org,(972)440-0499x1547,3152 Wong Stravenue Apt. 054,East Cheryl,SC,53649,USA,2025-08-17 15:32:48,True
+34,Brandon,Caldwell,greenmichael@example.org,6177426841,27279 Perry Plaza,Toddborough,WV,32936,USA,2025-04-25 17:49:54,True
+35,Kelsey,Cox,jennifer64@example.org,001-639-810-6518x0170,65676 Miller Shore,Lake Michelle,DE,23893,USA,2025-01-04 14:33:47,True
+36,Nicholas,Walker,moralesjimmy@example.org,001-502-884-3959x95342,0892 Peters Causeway Suite 685,Russellport,MS,24602,USA,2025-06-22 06:40:28,True
+37,Darin,Mathews,timothybooth@example.com,603-831-7393x6385,544 Hunt Parks Suite 175,West Lawrence,AZ,74232,USA,2025-09-15 11:02:53,False
+38,Alexis,Tran,duranrobert@example.net,912.903.8750,88600 Nichols Heights,New Lisachester,AS,23997,USA,2024-02-05 10:16:11,True
+39,Daisy,Harvey,ariel18@example.org,239.474.0148,39261 Martin Garden Suite 856,Port Vanessa,VA,10780,USA,2024-12-07 06:47:40,True
+40,Jeffrey,Roberson,gstewart@example.org,8479541212,01581 Shields Bridge Suite 661,New Adriana,TX,50404,USA,2024-03-24 23:04:50,False
+41,Debra,Thomas,pochoa@example.net,(745)693-7526,356 Velasquez Lock Suite 193,Lake Katrina,AK,95818,USA,2024-11-06 20:36:03,True
+42,Doris,Schwartz,mackdiane@example.com,(390)696-5610,889 Sean Lock,Bartonshire,UT,66098,USA,2024-03-10 09:25:42,False
+43,Mr.,Jr.,lsoto@example.net,+1-366-309-3796x60334,5371 Lambert Overpass,Candicefurt,OR,15473,USA,2024-08-10 13:07:28,True
+44,Luis,Cervantes,megan90@example.com,9728368876,2190 Kelly Harbor Apt. 842,Cunninghamfort,OH,67453,USA,2024-02-10 05:44:42,True
+45,Kimberly,Ritter,amanda98@example.org,444-794-8126x04223,672 Burton Lane,Jonesland,MO,68083,USA,2025-06-18 16:40:07,True
+46,Shawn,Gibson,patricia00@example.org,+1-670-312-7706x3242,1520 Garrett Stream Apt. 611,East Thomasberg,OR,30148,USA,2024-12-21 18:28:54,True
+47,Michael,Montoya,fheath@example.org,(619)365-6523,999 Maxwell Spurs,Port Melanieport,IL,68363,USA,2025-02-27 17:16:33,True
+48,Elizabeth,Brown,livingstonstacy@example.com,348.566.6188x92414,569 Kyle Mews,North John,NE,15703,USA,2024-10-31 10:48:10,True
+49,Natalie,Yang,michaelscott@example.org,001-913-780-0030,20863 Wright Stravenue Suite 419,Davidton,HI,29754,USA,2025-07-31 01:17:11,True
+50,Andrea,Marshall,usweeney@example.com,338-236-7024,657 Beverly Parkways,Lake Lori,CA,78081,USA,2025-01-28 08:17:05,True
+51,Tracey,Young,margaret90@example.org,521-335-6804x42067,21003 James Locks Suite 199,Samanthaland,AK,08951,USA,2024-04-15 21:40:21,True
+52,Brandon,Boone,millerpatrick@example.com,983.780.6578,4205 Anthony Valleys Suite 078,Katiebury,GA,13625,USA,2024-05-24 19:43:46,True
+53,Rose,Stark,andrewwoods@example.com,+1-732-352-5002x921,691 Turner Dale Apt. 675,Lake Tanya,UT,80941,USA,2025-07-17 13:55:46,True
+54,Kevin,Thompson,underwoodelizabeth@example.net,870-443-3154x10067,6586 Maria Turnpike Apt. 271,West Andrewview,CT,10226,USA,2024-08-05 19:06:21,False
+55,Candace,Jones,donna43@example.org,8693872050,973 Anthony Extension Suite 171,Kristenfort,NM,87144,USA,2024-06-07 03:22:45,True
+56,Jasmine,Watson,parmstrong@example.com,416-508-9899x2172,06163 Mary Green,Reneeland,CO,51369,USA,2025-01-19 10:43:10,False
+57,Scott,Stone,vwilliams@example.net,607.945.0544,24754 Jacobs Corners,South Jason,GU,53869,USA,2025-06-11 19:33:04,True
+58,Sean,Nicholson,nathanwheeler@example.org,598.555.2414x0602,346 Michelle Trafficway,South Rhondaburgh,PA,01610,USA,2024-05-06 02:42:53,False
+59,Tommy,Marquez,michelle44@example.org,(983)609-6520,6609 Matthew Station Apt. 875,Meganside,HI,39007,USA,2024-01-29 02:47:31,True
+60,David,Stokes,amoreno@example.org,(423)356-9725,2500 Hill Trace Apt. 927,East Christinachester,MO,56734,USA,2024-11-19 02:43:31,True
+61,Joseph,Cross,ryan25@example.com,(432)360-3323x098,064 Brittney Causeway Apt. 001,Wallaceville,OH,33627,USA,2024-11-16 18:43:40,False
+62,Melissa,Smith,slozano@example.com,530-901-1972x18114,7012 Melissa Lake Suite 611,North Melissaburgh,MA,47362,USA,2025-10-09 02:32:33,True
+63,Derrick,Quinn,timothyfreeman@example.com,301.845.0899x358,5628 Alexander Estate,Christianburgh,CA,98992,USA,2024-11-30 04:19:17,True
+64,Wayne,Williams,connersylvia@example.net,988-737-5503x7589,13055 Kelley Landing Apt. 027,Port Jennifer,VA,54137,USA,2024-02-05 09:14:46,True
+65,Cody,Conrad,msandoval@example.com,666.793.4654x72269,39452 William Square,Jenniferstad,OH,63464,USA,2025-02-08 23:38:07,False
+66,Steven,Ferguson,heather06@example.com,(558)500-4397x35989,2122 Nicholas Meadow Suite 842,New Meghan,AL,43828,USA,2024-11-10 12:23:07,True
+67,Tanya,Carlson,wilsonmichael@example.org,+1-799-930-5616x4840,43581 Gary Trail Apt. 133,Houstonborough,ND,92610,USA,2025-09-26 18:19:27,False
+68,Todd,Burgess,avilabrenda@example.net,958-814-4914,072 Derek Lock Suite 245,New Nancyberg,DE,05976,USA,2023-11-18 05:06:07,True
+69,Travis,Torres,wlynn@example.org,+1-431-749-1357x75949,2053 Jennifer Row Suite 452,Nataliemouth,NV,47521,USA,2025-07-08 02:02:31,True
+70,Brian,Brewer,michaelwalker@example.net,001-442-478-8165x8039,29927 Williams Trace Suite 314,Jimborough,NC,47850,USA,2024-09-10 17:55:08,True
+71,Stephen,Williams,scotthall@example.net,+1-943-922-2591x3651,92603 David Ramp Apt. 280,North Gabriel,HI,68218,USA,2024-09-24 05:35:33,True
+72,Monica,Nicholson,catherinethompson@example.net,+1-808-781-1729x806,863 Clarke Light,Briannashire,CT,56270,USA,2024-02-26 07:06:04,True
+73,David,Trevino,ncunningham@example.com,+1-763-868-8725x88744,137 Craig Pass,Hartmanside,RI,91865,USA,2025-04-29 00:32:43,False
